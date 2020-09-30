@@ -1,0 +1,8 @@
+# OS X artifacts
+*.DS_Store
+
+# Build
+dist
+
+# Node
+node_modules
