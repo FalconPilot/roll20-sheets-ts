@@ -1,0 +1,7 @@
+{
+  "name": "starclock",
+  "previewPort": 3639,
+  "distPath": "dist",
+  "sheetPath": "./sheet/index.tsx",
+  "workersPath": "./workers/index.ts"
+}
